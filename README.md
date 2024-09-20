@@ -1,4 +1,10 @@
-## Hi there 👋
+## Olá, eu sou a Thais! 👋
+- 🎓 Estudante de Engenharia de Software na [UEPG](https://www.uepg.br)
+- 🧪 Analista de Qualidade Júnior, focada em garantir a excelência dos produtos de software
+- 🌱 Atualmente aprendendo sobre **testes automatizados**
+  
+[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thais-fabiana-haus-a8661b164/)](https://www.linkedin.com/in/thais-fabiana-haus-a8661b164/)
+
 
 <!--
 **iahtsr/iahtsr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
